@@ -1,0 +1,6 @@
+DB_HOST = 'localhost'
+DB_USER = 'root'
+DB_PASSWORD = ''
+DB_NAME = 'ccabello'   
+ORBEA_PASS= 'xLl*h7k5&'
+ORBEA_CLIENT = '1_10123-1'
